@@ -713,8 +713,7 @@ height: 45px;
         flex-direction: column;
     }
     .first-div, .sec-div {
-        width: 90%;
-        justify-content: center;
+        width: 100%;
     }
 }
 
@@ -775,8 +774,7 @@ height: 45px;
     }
     
     .first-div, .sec-div {
-        width: 90%;
-        justify-content: center;
+        width: 100%;
     }
     
     .main-cont {
@@ -830,4 +828,5 @@ height: 45px;
     }
 
 }
+
 

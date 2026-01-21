@@ -714,6 +714,7 @@ height: 45px;
     }
     .first-div, .sec-div {
         width: 90%;
+        justify-content: center;
     }
 }
 
@@ -774,7 +775,8 @@ height: 45px;
     }
     
     .first-div, .sec-div {
-        width: 100%;
+        width: 90%;
+        justify-content: center;
     }
     
     .main-cont {
@@ -828,3 +830,4 @@ height: 45px;
     }
 
 }
+

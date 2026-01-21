@@ -48,6 +48,11 @@ python -m http.server 8000
 
 M TECH has been committed to empowering tech enthusiasts, professionals, and gamers since 2022 with quality hardware, fast shipping, and expert support.
 
+## URL
+
+https://dachimamula.github.io/M-TECH/
+
 ## License
 
 MIT License - © 2026 M TECH. All rights reserved.
+

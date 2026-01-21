@@ -4,14 +4,13 @@ A modern, responsive e-commerce platform for gaming and professional tech hardwa
 
 ## Features
 
-- 🛍️ Dynamic product catalog with real-time API integration
-- 🔍 Smart search functionality to filter products
-- 📱 Fully responsive design (mobile, tablet, desktop)
-- 🔐 User registration with email & password validation
-- 💰 Service price calculator
-- 🍪 Cookie consent banner
-- ⬆️ Scroll-to-top button
-- 🎨 Modern UI with smooth animations
+- Dynamic product catalog with real-time API integration
+- Smart search functionality to filter products
+- Fully responsive design (mobile, tablet, desktop)
+- User registration with email & password validation
+- Service price calculator
+- Cookie consent banner
+- Scroll-to-top button
 
 ## Tech Stack
 
@@ -55,4 +54,5 @@ https://dachimamula.github.io/M-TECH/
 ## License
 
 MIT License - © 2026 M TECH. All rights reserved.
+
 
